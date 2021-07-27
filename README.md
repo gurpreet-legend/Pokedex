@@ -1,4 +1,7 @@
 # Pokedex
+Wanna visit those old pokemon days, check out my Pokedex, where you can search all of your beloved Pokemons <br>
+(and your favourite Pikachu as well (✿◡‿◡) ).<br><br>
+It's my first React App. Do give it a star ⭐ if you like it :)
 
 ## 🔗 Host link
 > <a href="https://gurpreet-legend.github.io/Pokedex/" target="_blank">https://gurpreet-legend.github.io/Pokedex/</a>
